@@ -1,0 +1,2 @@
+BLOB, GEOMETRY, JSON 字段不能有 default 默认值
+INT UNSIGNED 不是UNSIGNED INT
