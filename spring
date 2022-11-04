@@ -1,1 +1,3 @@
 springboot 项目maven或者gradle没有引入spring-boot-starter-web会出现问题“Process finished with exit code 0”
+
+JsonFormat的配置只对Date类生效，对LocalDateTime不生效，要单独写配置类
